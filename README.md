@@ -21,3 +21,11 @@ docker run --rm -it -e DB_HOST=<YOUR_DB_HOST> -e DB_NAME=<YOUR_DB_NAME> -e DB_US
 This script referred to the following URL.
 
 https://qiita.com/genzouw/items/23cd0119715403e6e110
+
+# Display output schema.
+
+Open output index.html in browser.
+
+`open ./output/<DB_NAME>/index.html`
+
+
